@@ -15,6 +15,7 @@ export default {
       },
       colors:{
         menuItemColor:"#767676",
+        introB:"#F0F0F0"
       },
       backgroundImage:{
         intro: "url('../src/assets/components/images_all/Intro.png')",
