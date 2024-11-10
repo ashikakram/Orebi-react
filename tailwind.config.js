@@ -17,7 +17,7 @@ export default {
         menuItemColor:"#767676",
       },
       backgroundImage:{
-        intro: "url('../src/assets/components/images_all/Intro.png')",
+        intro: "url('C:/Users/ashik/Desktop/orebi/src/assets/components/images_all/Intro.png')",
       },
       height:{
         intro:"550px",
